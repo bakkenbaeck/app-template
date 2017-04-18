@@ -14,14 +14,12 @@ The folder structure looks like this:
 
 After cloning this project there are 3 steps that you'll have to follow in order to configure this template to your needs.
 
-### 1. Run `pod install`
-
-### 2. Rename Bundle Identifier
+### 1. Rename Bundle Identifier
 
 ![Bundle indentifier](https://raw.githubusercontent.com/3lvis/resources/master/app-template/rename-bundle.png)
 
-### 3. Rename iOS Display Name
+### 2. Rename iOS Display Name
 
 ![Bundle name](https://raw.githubusercontent.com/3lvis/resources/master/app-template/rename-display-name.png)
 
-### 4. Remove `README.md`, rename `app-README.md` to `README.md`
+### 3. Remove `README.md`, rename `app-README.md` to `README.md`
